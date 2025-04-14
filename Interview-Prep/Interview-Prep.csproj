@@ -6,7 +6,7 @@
     <RootNamespace>Interview_Prep</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Interview_Prep.MaxNdMin</StartupObject>
+    <StartupObject>Interview_Prep.Patterns.NumberPattern1</StartupObject>
   </PropertyGroup>
 
 </Project>
