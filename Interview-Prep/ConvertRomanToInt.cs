@@ -18,7 +18,6 @@ namespace Interview_Prep
             int[] val = { 1000, 500, 100, 50, 10, 5, 1 };
             char[] sym = { 'M', 'D', 'C', 'L', 'X', 'V', 'I' };
 
-            float f = 2.23f;
             int result = 0; // final result
             int pre = 0; // previous value while traversing
 
